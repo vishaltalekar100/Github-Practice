@@ -1,5 +1,3 @@
----
-
 # GithubDemo Repository
 
 **Welcome to the GithubDemo repository!** This repository serves as a documentation of my journey learning and practicing Git, GitHub, and various Git commands. The journey began with downloading Git from [git-scm.com](https://git-scm.com) and configuring it on a Windows system.
