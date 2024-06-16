@@ -1,0 +1,4 @@
+Gender: Male
+Date of Birth (DOB): 11/06/1998
+Eucational Qualification: Batchelers of Engineering (BE) - Electronics
+Year of Graduation: 2020
