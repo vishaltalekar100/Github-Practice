@@ -1,6 +1,6 @@
-# GithubDemo Repository
+# Github-Practice Repository
 
-**Welcome to the GithubDemo repository!** This repository serves as a documentation of my journey learning and practicing Git, GitHub, and various Git commands. The journey began with downloading Git from [git-scm.com](https://git-scm.com) and configuring it on a Windows system.
+**Welcome to the Github-Practice repository!** This repository serves as a documentation of my journey learning and practicing Git, GitHub, and various Git commands. The journey began with downloading Git from [git-scm.com](https://git-scm.com) and configuring it on a Windows system.
 
 ## Initial Configuration
 
@@ -135,7 +135,7 @@ git stash clear # Clear all stashes.
 
 ## Connecting to GitHub
 
-After creating a public repository named GithubDemo on GitHub, I connected my local repository to it with:
+After creating a public repository named Github-Practice on GitHub, I connected my local repository to it with:
 
 ```bash
 git remote add origin <repository_link>
